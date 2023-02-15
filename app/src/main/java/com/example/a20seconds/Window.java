@@ -93,6 +93,7 @@ public class Window {
         taskRecycler.setLayoutManager(new LinearLayoutManager(context));
         mView.setLayoutParams(new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT,ViewGroup.LayoutParams.MATCH_PARENT));
         mView.setSystemUiVisibility(View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION);
+//        mView.getBackground().setAlpha(50);
         // set onClickListener on the remove button, which removes
         // the view from the window
 //        mView.findViewById(R.id.window_close).setOnClickListener(new View.OnClickListener() {
