@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">20 Seconds</string>
+    <string name="display_text">Displaying over other apps!</string>
+    <string name="remove">Remove</string>
+    <string name="display">Display</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="timer">timer</string>
+    <string name="title_activity_fullscreen_window">FullscreenWindow</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure you want to delete the task</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Completed the task!..</string>
+    <string name="sureToMarkAsComplete">Are you sure you want to mark this task as completed.</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Congrats!... You have completed the task successfully..</string>
+    <string name="your_pending_tasks">Your Pending Tasks</string>
+    <string name="intention">Are You Spending Your Time Intentionally?</string>
+    <string name="take_a_break">Have a Break!</string>
+</resources>
