@@ -48,6 +48,7 @@ https://user-images.githubusercontent.com/65747400/218970653-a31de824-2ab6-4e68-
 
 ![20 Seconds - Popup](https://user-images.githubusercontent.com/65747400/218970819-9acb4173-a2e5-4c2d-94e4-743aeb9a9b8f.jpg)
 
+A [PPT](https://github.com/ArulVirumbi/20_Seconds/blob/master/20%20seconds.pptx) is attached for reference
 
 These resources should help you get started with the 20 Seconds app. If you have any questions or feedback, please don't hesitate to contact us.
 
